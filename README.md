@@ -1,3 +1,5 @@
+#Deployed Link: https://koinx-assignment-six-steel.vercel.app/coins/bitcoin
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
